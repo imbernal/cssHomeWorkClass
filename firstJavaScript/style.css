@@ -16,3 +16,11 @@
 .concatenate{
 	background-color: #ee6e73 !important;
 }
+
+.niceTransitionRight{
+	background-color: #ee6e73;
+}
+
+.niceTransitionLeft{
+	background-color: #26a69a;
+}
