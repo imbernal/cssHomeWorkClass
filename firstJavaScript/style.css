@@ -1,3 +1,6 @@
+.page-content{
+	min-height: calc(100vh - 120px);
+}
 #navTitle{
 	margin:0;
 	text-align: center;
@@ -7,6 +10,7 @@
 .boxes div{
 	height: 150px;
 	border:1px solid;
+	margin-top: 15%
 }
 
 .page-footer{
@@ -23,4 +27,8 @@
 
 .niceTransitionLeft{
 	background-color: #26a69a;
+}
+
+footer{
+	height: 120px;
 }
